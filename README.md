@@ -9,6 +9,8 @@
 Projeto de uma página Web com design responsivo desenvolvido durante o curso HTML5 e CSS3 da Alura.
 
 ![Barbearia Alura](assets/barbearia.gif)
+---
+![Barbearia Alura](assets/mobile-barbearia.gif)
 
 ## Tecnologias utilizadas
 
